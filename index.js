@@ -1,4 +1,4 @@
-const testVar = "hi"
+const v = "hi"
 
 document.querySelector("main#main").remove();
 
